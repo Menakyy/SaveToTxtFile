@@ -12,6 +12,7 @@ class CSaveToTxtFile
 public:
 
 	void saveStringToEndFile(std::string fileName, std::string content);
+	void saveNewStringToFile(std::string fileName, std::string content);
 };
 
 
