@@ -6,7 +6,12 @@
 
 class CSaveToTxtFile
 {
+	
+	//ofstream myfile;
 
+public:
+
+	void saveStringToEndFile(std::string fileName, std::string content);
 };
 
 
